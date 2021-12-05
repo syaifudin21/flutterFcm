@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945063176667",
+    "project_id": "barokah-59a4c",
+    "storage_bucket": "barokah-59a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945063176667:android:b3bf2327248af90c541ffe",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945063176667-st4is2f4scqupsaktcdg0bjeicvjao8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcTQxUwtLndYFPhCA4HrZPoBzA4GtfLpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945063176667-st4is2f4scqupsaktcdg0bjeicvjao8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
